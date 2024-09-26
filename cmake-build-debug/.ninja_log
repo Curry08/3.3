@@ -1,0 +1,12 @@
+# ninja log v6
+11	767	7490879812958058	build.ninja	72b1acd0ca2e4f14
+77	325	7490879816542184	CMakeFiles/untitled6.dir/3.3.c.obj	ebcdf83b2adf7d8c
+328	606	7490879819050273	untitled6.exe	d862bce9b01cfb69
+58	265	7490880485139329	CMakeFiles/untitled6.dir/3.3.c.obj	ebcdf83b2adf7d8c
+267	593	7490880487225725	untitled6.exe	d862bce9b01cfb69
+37	242	7490880707407074	CMakeFiles/untitled6.dir/3.3.c.obj	ebcdf83b2adf7d8c
+243	543	7490880709468401	untitled6.exe	d862bce9b01cfb69
+43	261	7490880974851159	CMakeFiles/untitled6.dir/3.3.c.obj	ebcdf83b2adf7d8c
+262	520	7490880977038143	untitled6.exe	d862bce9b01cfb69
+39	278	7490881251148633	CMakeFiles/untitled6.dir/3.3.c.obj	ebcdf83b2adf7d8c
+280	535	7490881253564426	untitled6.exe	d862bce9b01cfb69
